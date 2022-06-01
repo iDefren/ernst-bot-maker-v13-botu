@@ -9,8 +9,8 @@ sadece discord üzerinden kayıt edip dashboard kısmandaki create bot tıklaman
 
 Bot coin sistemi ile çalışır aşağada yazacam bilgileri,Plan sistemi var Free ve Premium
 
-Free:Tek 1 bot kurabilir, premium botları kuramaz, fazla coin şansı yok 
-Premium:3 bot kurabilir, Premium botları kurabılır, Fazla Coin Şansı ve sunucumuzda özel rol
+- Free:Tek 1 bot kurabilir, premium botları kuramaz, fazla coin şansı yok 
+- Premium:3 bot kurabilir, Premium botları kurabılır, Fazla Coin Şansı ve sunucumuzda özel rol
 
 - Türkçe yok?
 
