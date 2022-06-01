@@ -2,7 +2,7 @@
 
 - Bu bot nedir?
 
-v13 Üzerindeki arkadaşla 2 aylık çalıştığımız proje Ernst Maker, Kodsuzca gelişmis bot yapmak için in iyi hal
+v13 Üzerindeki arkadaşla 2 aylıkta çalıştığımız proje Ernst Maker, Kodsuzca gelişmis bot yapmak için in iyi hal
 sadece discord üzerinden kayıt edip dashboard kısmandaki create bot tıklamanız ve size verilen basit boşluklari doldurmanız gerekli.
 
 Bot coin sistemi ile çalışır aşağada yazacam bilgileri,Plan sistemi var Free ve Premium
