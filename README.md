@@ -1,5 +1,7 @@
 # V13 Ernst Maker
 
+250 Star 100 Fork 
+
 - Bu bot nedir?
 
 v13 Üzerindeki arkadaşla 2 aylıkta çalıştığımız proje Ernst Maker, Kodsuzca gelişmis bot yapmak için in iyi hal
