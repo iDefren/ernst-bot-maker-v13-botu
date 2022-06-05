@@ -15,7 +15,7 @@ Bot coin sistemi ile çalışır aşağada yazacam bilgileri,Plan sistemi var Fr
 - Türkçe yok?
 
 Botun üzerinde türkçe yapmayıp inglizce yapması 2 sebebimiz var
-- Arkadaşımın türk olmadığından ve türkçe bilmemesinden dolayı anan dili inglizce yaptık
+- Arkadaşımın türk olmadığından ve türkçe bilmemesinden dolayı ana dili inglizce yaptık
 - Türkçeye çevirmek için zamanım olmadığından dolayı yapamadım kısacası xd
 
 Belki botu tamamen bitirdiğimiz an türkçeye çeviririm herkesin inglizçe bildiği için zorunlar çıkarmaz sanırım.
